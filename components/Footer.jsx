@@ -4,7 +4,7 @@ const Footer = () => (
   <footer className="bg-light p-3 text-center" data-testid="footer">
     {/* <div className="logo" data-testid="footer-logo" /> */}
     <p data-testid="footer-text">
-      This is footer
+      포켓몬
       {/* Sample project provided by <a href="https://auth0.com">Auth0</a> */}
     </p>
   </footer>

@@ -1,12 +1,13 @@
 import React from 'react';
 
 import Logo from './Logo';
+import Logoicon from './Logoicon'
 
 const Hero = () => (
   <div className="hero my-5 text-center" data-testid="hero">
-    <Logo testId="hero-logo" />
+    <Logoicon testId="hero-logo" />
     <h1 className="mb-4" data-testid="hero-title">
-      Title
+      이상해씨 
       {/* Next.js Sample Project */}
     </h1>
 
