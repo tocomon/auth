@@ -1,0 +1,4 @@
+//https://www.youtube.com/watch?v=yufqeJLP1rI
+
+npm install
+npm run dev
